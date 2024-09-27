@@ -1,0 +1,78 @@
+/* body{
+    width: 100%;
+    background-color: aqua;
+} */
+
+.head-div {
+    width: 100%;
+    height: 800px;
+    /* background-color: aqua; */
+}
+
+.main-div {
+    width: 40%;
+    height: 500px;
+    background-color: silver;
+    /* background: url("https://img.freepik.com/free-vector/blue-futuristic-networking-technology_53876-100679.jpg?t=st=1725959773~exp=1725963373~hmac=ee3679e4741f3ed072b5a2ab965b24c69b6bae1220722e82ec3f7289d03d4698&w=740"); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    border-radius: 20px;
+    /* padding: 0px 0px 0px 50px; */
+    margin: 10% auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-div1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-text {
+    text-align: center;
+}
+
+.Welcome-text {
+    color: #be3e3e;
+}
+
+.nokia-text {
+    color: pink;
+    font-size: 70px;
+}
+
+.user-login-text {
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+
+.info {
+    padding-bottom: 40px;
+}
+
+.table1 {
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 30px; */
+
+}
+
+.username-input input {
+    border: none;
+    border-radius: 30px;
+}
+
+.password-input input {
+    border: none;
+    border-radius: 30px;
+}
+
+.re-password-input input {
+    border: none;
+    border-radius: 30px;
+}
+.submit-butt input{
+font-size: ;}
